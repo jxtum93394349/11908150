@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 // error processing code
 test.fetch();
 hello world
