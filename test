@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 public class OracleJdbcTest
 out.write(”aString”);
 con=DriverManager.getConnection(url, userName, password);
