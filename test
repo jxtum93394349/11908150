@@ -1,3 +1,4 @@
+while (rs.next())
 public class OracleJdbcTest
 public void fetch() throws SQLException, IOException
 public class OracleJdbcTest
