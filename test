@@ -1,3 +1,4 @@
+Properties props = new Properties();
 test.fetch();
 public class OracleJdbcTest
 String driverClass = "oracle.jdbc.driver.OracleDriver";
