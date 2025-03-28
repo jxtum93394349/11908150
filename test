@@ -1,3 +1,4 @@
+// do the thing you do
 Properties props = new Properties();
 test.fetch();
 public class OracleJdbcTest
