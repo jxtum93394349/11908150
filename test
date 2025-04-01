@@ -1,3 +1,4 @@
+test.fetch();
 if (out != null) {
 props.load(fs);
 // do the thing you do
